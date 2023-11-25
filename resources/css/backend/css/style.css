@@ -1,0 +1,12 @@
+.select2-container .select2-selection--single{
+    height: 40px !important;
+}
+
+.bigdrop{
+    width: 400px !important;
+}
+
+
+.select2-container{
+    width: 100% !important;
+}

@@ -1,0 +1,17 @@
+.color-variant .active {
+    border: 1px solid !important;
+}
+
+.disabled-link {
+    pointer-events: none;
+}
+
+.refer-a-friend-btn {
+    padding: 10px 2px !important;
+    background-color: #3577f0 !important;
+    width: fit-content !important;
+    text-align: center !important;
+    color: white !important;
+    font-weight: 900 !important;
+    font-size: 25px !important;
+}
